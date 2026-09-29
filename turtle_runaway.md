@@ -50,4 +50,6 @@ The game ends when either:
 * The timer reaches 0.
 * The turtle catches the fish 5 times.
 
+## 8. Screenshot
 
+turtle_runaway.png.
