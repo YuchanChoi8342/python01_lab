@@ -51,5 +51,4 @@ The game ends when either:
 * The turtle catches the fish 5 times.
 
 ## 8. Screenshot
-
-turtle_runaway.png.
+![Turtle Runaway Game](turtle_runaway.png)
